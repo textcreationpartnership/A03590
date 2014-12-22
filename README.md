@@ -36,7 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-OF THE LAVVES of Ecclesiasticall Politie, Eight bookes.By Richard Hooker..IESVS.CHRISTVS.CONTERET CA
+
 1. TO THE READER.
 
 1. A Preface. To them that seeke (as they tearme it) the reformation of Lawes and orders Ecclesiasticall, in the Church of ENGLAND.
